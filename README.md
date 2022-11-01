@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleksandrMorozov123
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning statistics
+- 🌱 I’m currently learning linear algebra and probability theory 
 - 💞️ I’m looking to collaborate on predictive analytics
 - 📫 How to reach me - as.morozov321@gmail.com
 
