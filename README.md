@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AleksandrMorozov123
+- 👋 Hi, I’m Aleksandr Morozov 
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning linear algebra and probability theory 
 - 💞️ I’m looking to collaborate on predictive analytics
