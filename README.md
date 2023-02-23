@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksandr Morozov 
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning linear algebra and probability theory 
+- 🌱 I’m currently studying at the university MIPT 
 - 💞️ I’m looking to collaborate on predictive analytics
 - 📫 How to reach me - as.morozov321@gmail.com
 
