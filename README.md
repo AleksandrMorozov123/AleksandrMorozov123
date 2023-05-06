@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aleksandr Morozov 
-- 👀 I’m interested in data science
+- 👀 I’m interested in financial engineering
 - 🌱 I’m currently studying at the university MIPT 
-- 💞️ I’m looking to collaborate on predictive analytics
+- 💞️ I’m looking to collaborate on financial modelling
 - 📫 How to reach me - as.morozov321@gmail.com
 
 <!---
