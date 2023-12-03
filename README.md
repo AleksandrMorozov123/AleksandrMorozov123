@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aleksandr Morozov 
-- 👀 I’m interested in natural language processing
+- 👀 I’m interested in natural language processing and computer vision
 - 🌱 I’m currently studying at the university MIPT 
 - 💞️ I’m looking to collaborate on NLP and CV
 - 📫 How to reach me - as.morozov321@gmail.com
