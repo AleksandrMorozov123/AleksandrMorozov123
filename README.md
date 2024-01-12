@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Aleksandr Morozov 
-- 👀 I’m interested in natural language processing and computer vision
+- 👀 I’m interested in time series analysis and natural language processing 
 - 🌱 I’m currently studying at the university MIPT 
-- 💞️ I’m looking to collaborate on NLP and CV
+- 💞️ I’m looking to collaborate on NLP 
 - 📫 How to reach me - as.morozov321@gmail.com
+- My kaggle profile - https://www.kaggle.com/aleksandrmorozov123
 
 <!---
 AleksandrMorozov123/AleksandrMorozov123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
