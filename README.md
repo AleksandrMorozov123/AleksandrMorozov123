@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aleksandr Morozov 
-- 👀 I’m interested in time series analysis and natural language processing 
+- 👀 I’m interested in time series analysis and computer vision 
 - 🌱 I’m currently studying applied math at the university MIPT 
 - 💞️ I’m looking to collaborate on time series analysis and NLP 
 - 📫 How to reach me - as.morozov321@gmail.com
