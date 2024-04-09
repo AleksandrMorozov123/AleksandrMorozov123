@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aleksandr Morozov 
 - 👀 I’m interested in time series analysis and computer vision 
 - 🌱 I’m currently studying applied math at the university MIPT 
-- 💞️ I’m looking to collaborate on time series analysis and NLP 
+- 💞️ I’m looking to collaborate on computer vision and time series analysis 
 - 📫 How to reach me - as.morozov321@gmail.com
 - My kaggle profile - https://www.kaggle.com/aleksandrmorozov123
 
